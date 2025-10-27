@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prudn\\source\\repos\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9D6E6B-338E-457E-A93E-EBD0444733C4}|home_work\\home_work.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab8\\home_work\\home_work.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD9D6E6B-338E-457E-A93E-EBD0444733C4}|home_work\\home_work.vcxproj|solutionrelative:home_work\\home_work.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E5507C-4FF8-4F1A-B300-C715AE8DD387}|task2_\\task2_.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab8\\task2_\\task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97E5507C-4FF8-4F1A-B300-C715AE8DD387}|task2_\\task2_.vcxproj|solutionrelative:task2_\\task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8B3059-8985-4E2A-8FA0-BE3357241678}|Lab8\\Lab8.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab8\\Lab8\\task0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B8B3059-8985-4E2A-8FA0-BE3357241678}|Lab8\\Lab8.vcxproj|solutionrelative:Lab8\\task0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93F0A63-A330-480D-ACF7-CDDB3CD87657}|task1\\task1.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab8\\task1\\task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C93F0A63-A330-480D-ACF7-CDDB3CD87657}|task1\\task1.vcxproj|solutionrelative:task1\\task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD46396D-54FE-4B1A-969A-EFDB9C7BA1A6}|task1A\\task1A.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab8\\task1A\\task1A.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD46396D-54FE-4B1A-969A-EFDB9C7BA1A6}|task1A\\task1A.vcxproj|solutionrelative:task1A\\task1A.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 385,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home_work.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab8\\home_work\\home_work.c",
+              "RelativeDocumentMoniker": "home_work\\home_work.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab8\\home_work\\home_work.c",
+              "RelativeToolTip": "home_work\\home_work.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-19T18:44:53.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task2.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab8\\task2_\\task2.c",
+              "RelativeDocumentMoniker": "task2_\\task2.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab8\\task2_\\task2.c",
+              "RelativeToolTip": "task2_\\task2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-19T18:37:48.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task1A.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab8\\task1A\\task1A.c",
+              "RelativeDocumentMoniker": "task1A\\task1A.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab8\\task1A\\task1A.c",
+              "RelativeToolTip": "task1A\\task1A.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-19T18:25:26.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task1.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab8\\task1\\task1.c",
+              "RelativeDocumentMoniker": "task1\\task1.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab8\\task1\\task1.c",
+              "RelativeToolTip": "task1\\task1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-19T14:49:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task0.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab8\\Lab8\\task0.c",
+              "RelativeDocumentMoniker": "Lab8\\task0.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab8\\Lab8\\task0.c",
+              "RelativeToolTip": "Lab8\\task0.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-18T22:00:09.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
